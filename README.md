@@ -44,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Varshit2448/Leetcode/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Varshit2448/Leetcode/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Varshit2448/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
