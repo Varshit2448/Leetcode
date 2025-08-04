@@ -47,13 +47,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Varshit2448/Leetcode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/Varshit2448/Leetcode/tree/master/0412-fizz-buzz) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Varshit2448/Leetcode/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/Varshit2448/Leetcode/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Varshit2448/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Varshit2448/Leetcode/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Varshit2448/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
