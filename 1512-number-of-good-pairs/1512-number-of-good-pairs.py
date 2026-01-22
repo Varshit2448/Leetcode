@@ -1,11 +1,14 @@
 class Solution:
     def numIdenticalPairs(self, nums: List[int]) -> int:
         cnt = 0
-        for i in range(len(nums)):
-            for j in range(len(nums)):
-                if((i < j) and (nums[i] == nums[j])):
-                    cnt += 1
-        return cnt
-__import__("atexit").register(lambda: open("display_runtime.txt", "w").write("0"))
+        freq = {}
 
+        for x in nums:
+            if x in freq:
+                cnt += freq[x]
+                freq[x] += 1
+            else:
+                freq[x] = 1
+        
+        return cnt
         
