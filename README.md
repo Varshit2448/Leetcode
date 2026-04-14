@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Varshit2448/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Varshit2448/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Varshit2448/Leetcode/tree/master/0037-sudoku-solver) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Varshit2448/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/Varshit2448/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Varshit2448/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Varshit2448/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Varshit2448/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Varshit2448/Leetcode/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/Varshit2448/Leetcode/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Varshit2448/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Varshit2448/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Backtracking
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Varshit2448/Leetcode/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Varshit2448/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/Varshit2448/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Varshit2448/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Varshit2448/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
