@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Varshit2448/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Varshit2448/Leetcode/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/Varshit2448/Leetcode/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/Varshit2448/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Varshit2448/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Varshit2448/Leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Varshit2448/Leetcode/tree/master/0412-fizz-buzz) |
 ## Math
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Varshit2448/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Varshit2448/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
