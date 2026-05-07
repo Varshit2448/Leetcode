@@ -1,22 +1,24 @@
 class Solution {
-    public int maximumWealth(int[][] accts) {
-        int max_sum = 0;
-        int r_sum = 0;
-         
+    public int maximumWealth(int[][] mat) {
+    int highWealth = Integer.MIN_VALUE;
+        int currWealth = 0;
+        int stakeholder = 0;
+        int curholder = 0;
 
-        for(int i = 0 ; i < accts.length ; i++){
-            
-            for(int j = 0 ; j < accts[i].length; j++){
-                r_sum = r_sum + accts[i][j];
+
+        for(int i = 0 ; i < mat.length ; i++){
+            for(int j = 0 ; j < mat[0].length ; j++){
+                currWealth += mat[i][j];
+                curholder = i;
             }
 
-            if(r_sum > max_sum){
-                max_sum = r_sum;
+            if(currWealth > highWealth){
+                highWealth = currWealth;
+                stakeholder = curholder;
             }
-            r_sum = 0;
-
+            currWealth = 0;
         }
-
-        return max_sum;
+        
+        return highWealth;
     }
 }
