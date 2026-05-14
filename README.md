@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Varshit2448/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Varshit2448/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Varshit2448/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0704-binary-search](https://github.com/Varshit2448/Leetcode/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Varshit2448/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Varshit2448/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-sort-array-by-parity](https://github.com/Varshit2448/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Varshit2448/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Varshit2448/Leetcode/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/Varshit2448/Leetcode/tree/master/0704-binary-search) |
 ## Simulation
 |  |
 | ------- |
